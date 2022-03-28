@@ -1,4 +1,3 @@
-# Submission for the ETHDenver 2022 Virtual BUIDLathon
 
 ## 1.Project name
 
@@ -14,25 +13,24 @@ RainbowCity Foundation
 
 ## 4.Submission links
 
-In this ETHDenver 2022 Virtual BUIDLathon event, RainbowCity Foundation submitted a total of 10 projects, which is the  address directory of the 10 projects. We are continuing to refine the details of each project.
 
 Submission address directory:
-http://www.rainbowdao.io/ETHDanver2022
+http://www.rainbowdao.io/project
 
 Project demo website:
-https://fixedexethdanver.rainbowdao.io/
+https://fixedex.rainbowdao.io/
 
 GitHub repository :
-https://github.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange
+https://github.com/RainbowDAO/06-DAO-Fixed-Exchange
 
 Solidity-Version-contract (GitHub):
-https://github.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/tree/main/Solidity-contract
+https://github.com/RainbowDAO/06-DAO-Fixed-Exchange/tree/main/Solidity-contract
 
 Frontend code (GitHub):
-https://github.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/tree/main/Front-end
+https://github.com/RainbowDAO/06-DAO-Fixed-Exchange/tree/main/Front-end
 
 Picture (GitHub):
-https://github.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/tree/main/PIC
+https://github.com/RainbowDAO/06-DAO-Fixed-Exchange/tree/main/PIC
 
 ## 5.Recorded video demo
 
@@ -55,10 +53,10 @@ RBE:
 0x59b5B6A7aa8E95746225fE969c2D280D75A2C83e
 
 Frontend docs:
-https://github.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/blob/main/Front-end/README.md
+https://github.com/RainbowDAO/06-DAO-Fixed-Exchange/blob/main/Front-end/README.md
 
 Contract  docs:
-https://github.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/blob/main/Solidity-contract/README.md
+https://github.com/RainbowDAO/06-DAO-Fixed-Exchange/blob/main/Solidity-contract/README.md
 
 ## 7.Project social media:
 
@@ -96,7 +94,7 @@ For example, we establish a DAO organization and issue two tokens, one is the go
 
 ## 3.How we built it
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/logic-diagram.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/logic-diagram.png)
 
 First of all, we need to initialize a system and establish a token fixed exchange factory system according to the contract parameters. Anyone can initially build such a system. There are two main steps here. The first setting step is to agree on the exchange ratio, and the second setting step is to agree on the exchange and withdrawal process:
 
@@ -139,58 +137,58 @@ Whether it is a monthly release or a daily release, the initialization is set ac
 
 ## 1-Basic-Information
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/1-Basic-Information.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/1-Basic-Information.png)
 
 
 ## 2-Token-Settings
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/2-Token-Settings.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/2-Token-Settings.png)
 
 
 ## 3-Exchange-Settings-1
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/3-Exchange-Settings-1.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/3-Exchange-Settings-1.png)
 
 
 ## 4-Exchange-Settings-2
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/4-Exchange-Settings-2.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/4-Exchange-Settings-2.png)
 
 
 ## 5-Inject-tokens
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/5-Inject-tokens.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/5-Inject-tokens.png)
 
 
 ## 6-Home
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/6-Home.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/6-Home.png)
 
 
 ## 7-Info
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/7-Info.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/7-Info.png)
 
 
 ## 8-Exchange
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/8-Exchange.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/8-Exchange.png)
 
 
 ## 9-Withdraw-1
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/9-Withdraw-1.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/9-Withdraw-1.png)
 
 
 ## 10-Withdraw-2
 
 
-![image](https://raw.githubusercontent.com/RainbowDAO/07-ETHDenver2022-DAO-Fixed-Exchange/main/PIC/10-Withdraw-2.png)
+![image](https://raw.githubusercontent.com/RainbowDAO/06-DAO-Fixed-Exchange/main/PIC/10-Withdraw-2.png)
