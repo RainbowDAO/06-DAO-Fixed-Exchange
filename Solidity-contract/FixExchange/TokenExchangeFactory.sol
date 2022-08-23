@@ -3,8 +3,6 @@ import '../interface/IERC20.sol';
 import '../TransferHelper.sol';
 contract tokenExchangeFactory{
     // string public factoryName;
-    // string public factoryLogo;
-    // string public factoryIntroduction;
     uint public time;
     uint public releasePeriod;
     uint public closePeriod;
